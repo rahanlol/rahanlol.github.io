@@ -1,5 +1,5 @@
 ---
-title: HOME
+title: Home
 ---
 <script type="text/javascript"
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js">
