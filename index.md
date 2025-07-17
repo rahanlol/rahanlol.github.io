@@ -5,11 +5,10 @@ title: HOME
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js">
 </script>
 
-# HELLO
+# Rahan's Website
 
-This is the pythagrean inequality:
+## A site that I will use to learn everything to do with GIT and GITHUB
 
-\\(a^2+b^2>c^2)
 
 This is the area under the normal distribution:
 
