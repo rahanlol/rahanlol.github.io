@@ -11,3 +11,9 @@ This is the pythagrean inequality:
 
 \\(a^2+b^2>c^2)
 
+This is the area under the normal distribution:
+
+$$
+\int_0^\infty e^{-x^2} dx = \frac{\sqrt{\pi}}{2}
+$$
+
